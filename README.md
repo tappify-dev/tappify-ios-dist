@@ -1,32 +1,44 @@
-# TappifySDK (binary distribution)
+# TappifySDK
 
-Compiled, closed-source distribution of TappifySDK. Add it in Xcode via
-**File → Add Package Dependencies** with this repo's URL, or in `Package.swift`:
+Leave screen-anchored review comments on your live iOS builds — a comment toolbar
+for your app, visible to your team in the Tappify dashboard.
+
+**📖 Full documentation: [docs.tappify.ai](https://docs.tappify.ai)**
+
+## Install
+
+In Xcode: **File → Add Package Dependencies**, paste the repo URL, and add the
+`TappifySDK` library to your app target.
+
+```
+https://github.com/tappify-dev/tappify-ios-dist
+```
+
+Or in `Package.swift`:
 
 ```swift
 .package(url: "https://github.com/tappify-dev/tappify-ios-dist.git", from: "0.1.0")
 ```
 
-Then:
+Requires iOS 15+. This is a private package — if Xcode asks for credentials, ask
+your Tappify admin for access.
+
+## Quick start
 
 ```swift
 import TappifySDK
 
-Tappify.start(/* … */)
+// In your App init / AppDelegate:
+Tappify.start(appKey: "tpf_pk_<your key>")
 ```
 
-Requires iOS 15+. You need read access to this private repo (SSH key or a token
-in your SPM auth).
+Your `appKey` is a publishable key from the dashboard. Pair a device, and the
+Tappify pill appears on your build — tap it to leave a comment.
 
-## What's here
+Full setup (device activation, deep-link scheme, team pairing) and usage:
+**[docs.tappify.ai](https://docs.tappify.ai)**.
 
-- `TappifySDK.xcframework` — iOS device + simulator slices, built with library
-  evolution (module-stable across Xcode versions), with the Eloquia fonts and
-  brand logo bundled inside.
-- `Package.swift` — a single `.binaryTarget` pointing at the xcframework.
+## Support
 
-Source, issues, and releases are managed privately in `tappify-dev/tappify-ios`.
-Each tag here maps 1:1 to a source release tag.
-
-> The xcframework is committed directly (it's a few MB). If it grows, move it to
-> Git LFS.
+Questions or access requests: [docs.tappify.ai](https://docs.tappify.ai) or your
+Tappify admin.
