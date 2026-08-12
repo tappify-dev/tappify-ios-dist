@@ -2097,553 +2097,420 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2508,
+      "offset": 2831,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2513,
+      "offset": 2836,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2525,
+      "offset": 2848,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2530,
+      "offset": 2853,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2541,
+      "offset": 2864,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2546,
+      "offset": 2869,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2558,
+      "offset": 2881,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2603,
+      "offset": 2926,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2608,
+      "offset": 2931,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2620,
+      "offset": 2943,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2625,
+      "offset": 2948,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2636,
+      "offset": 2959,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2641,
+      "offset": 2964,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2653,
+      "offset": 2976,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2692,
+      "offset": 3015,
       "length": 3,
       "value": "183"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2698,
+      "offset": 3021,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2710,
+      "offset": 3033,
       "length": 2,
       "value": "65"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2715,
+      "offset": 3038,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2726,
+      "offset": 3049,
       "length": 2,
       "value": "65"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2731,
+      "offset": 3054,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2743,
+      "offset": 3066,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2790,
+      "offset": 3113,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2796,
+      "offset": 3119,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2808,
+      "offset": 3131,
       "length": 3,
       "value": "114"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2814,
+      "offset": 3137,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2825,
+      "offset": 3148,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2830,
+      "offset": 3153,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2842,
+      "offset": 3165,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3070,
+      "offset": 3393,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3075,
+      "offset": 3398,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3087,
+      "offset": 3410,
       "length": 3,
       "value": "202"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3093,
+      "offset": 3416,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3104,
+      "offset": 3427,
       "length": 3,
       "value": "189"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3110,
+      "offset": 3433,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3122,
+      "offset": 3445,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3162,
+      "offset": 3485,
       "length": 2,
       "value": "89"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3167,
+      "offset": 3490,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3179,
+      "offset": 3502,
       "length": 2,
       "value": "54"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3184,
+      "offset": 3507,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3195,
+      "offset": 3518,
       "length": 3,
       "value": "182"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3201,
+      "offset": 3524,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3213,
+      "offset": 3536,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3955,
+      "offset": 4278,
       "length": 3,
       "value": "242"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3961,
+      "offset": 4284,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3973,
+      "offset": 4296,
       "length": 3,
       "value": "243"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3979,
+      "offset": 4302,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3990,
+      "offset": 4313,
       "length": 3,
       "value": "238"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3996,
+      "offset": 4319,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4008,
+      "offset": 4331,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4162,
+      "offset": 4485,
       "length": 3,
       "value": "253"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4168,
+      "offset": 4491,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4180,
+      "offset": 4503,
       "length": 3,
       "value": "253"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4186,
+      "offset": 4509,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4197,
+      "offset": 4520,
       "length": 3,
       "value": "253"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4203,
+      "offset": 4526,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4215,
+      "offset": 4538,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4702,
+      "offset": 5025,
       "length": 3,
       "value": "253"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4708,
+      "offset": 5031,
       "length": 3,
       "value": "255"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4720,
-      "length": 3,
-      "value": "253"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4726,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4737,
-      "length": 3,
-      "value": "253"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4743,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4755,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4785,
-      "length": 2,
-      "value": "18"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4790,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4802,
-      "length": 2,
-      "value": "18"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4807,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4818,
-      "length": 2,
-      "value": "18"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4823,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4835,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4958,
-      "length": 3,
-      "value": "253"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4964,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4976,
-      "length": 3,
-      "value": "253"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4982,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4993,
-      "length": 3,
-      "value": "253"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4999,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "FloatLiteral",
-      "offset": 5011,
-      "length": 3,
-      "value": "0.7"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 5043,
-      "length": 2,
-      "value": "18"
+      "length": 3,
+      "value": "253"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5048,
+      "offset": 5049,
       "length": 3,
       "value": "255"
     },
@@ -2651,190 +2518,302 @@
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 5060,
-      "length": 2,
-      "value": "18"
+      "length": 3,
+      "value": "253"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5065,
+      "offset": 5066,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5076,
+      "offset": 5078,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5108,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5081,
+      "offset": 5113,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5125,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5130,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5141,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5146,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5158,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5281,
+      "length": 3,
+      "value": "253"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5287,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5299,
+      "length": 3,
+      "value": "253"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5305,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5316,
+      "length": 3,
+      "value": "253"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5322,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "FloatLiteral",
-      "offset": 5093,
+      "offset": 5334,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5348,
+      "offset": 5366,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5371,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5383,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5388,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5399,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5404,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "FloatLiteral",
+      "offset": 5416,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5671,
       "length": 2,
       "value": "47"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5353,
+      "offset": 5676,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5365,
+      "offset": 5688,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5370,
+      "offset": 5693,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5381,
+      "offset": 5704,
       "length": 2,
       "value": "54"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5386,
+      "offset": 5709,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5398,
+      "offset": 5721,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5428,
+      "offset": 5751,
       "length": 3,
       "value": "213"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5434,
+      "offset": 5757,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5446,
+      "offset": 5769,
       "length": 3,
       "value": "215"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5452,
+      "offset": 5775,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5463,
+      "offset": 5786,
       "length": 3,
       "value": "218"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5469,
+      "offset": 5792,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5481,
+      "offset": 5804,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5717,
+      "offset": 6040,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5722,
+      "offset": 6045,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5734,
+      "offset": 6057,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5739,
+      "offset": 6062,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5750,
+      "offset": 6073,
       "length": 2,
       "value": "18"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5755,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "FloatLiteral",
-      "offset": 5767,
-      "length": 3,
-      "value": "0.7"
-    },
-    {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6072,
-      "length": 3,
-      "value": "253"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
@@ -2845,36 +2824,57 @@
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
-      "kind": "IntegerLiteral",
+      "kind": "FloatLiteral",
       "offset": 6090,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6395,
       "length": 3,
       "value": "253"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6096,
+      "offset": 6401,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6107,
+      "offset": 6413,
       "length": 3,
       "value": "253"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6113,
+      "offset": 6419,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6430,
+      "length": 3,
+      "value": "253"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6436,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/Theme.swift",
       "kind": "FloatLiteral",
-      "offset": 6125,
+      "offset": 6448,
       "length": 4,
       "value": "0.12"
     },
@@ -3392,7 +3392,7 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/MenuPanel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6858,
+      "offset": 6867,
       "length": 5,
       "value": "false"
     },
@@ -4017,7 +4017,7 @@
       "kind": "StringLiteral",
       "offset": 261,
       "length": 7,
-      "value": "\"0.2.4\""
+      "value": "\"0.2.5\""
     }
   ]
 }
