@@ -2768,7 +2768,7 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/ComposerView.swift",
       "kind": "Array",
-      "offset": 2951,
+      "offset": 3366,
       "length": 2,
       "value": "[]"
     },
@@ -3076,7 +3076,7 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/OverlayCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 39597,
+      "offset": 40247,
       "length": 27,
       "value": "\"Couldn't post. Try again.\""
     },
@@ -3582,7 +3582,7 @@
       "kind": "StringLiteral",
       "offset": 261,
       "length": 7,
-      "value": "\"0.1.2\""
+      "value": "\"0.1.3\""
     }
   ]
 }
