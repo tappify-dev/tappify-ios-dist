@@ -139,6 +139,13 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TappifySDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -2705,14 +2712,14 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/CommentMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 8549,
+      "offset": 8496,
       "length": 2,
       "value": "34"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/CommentMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 9932,
+      "offset": 9879,
       "length": 2,
       "value": "26"
     },
@@ -2985,7 +2992,14 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/MorphGeometry.swift",
       "kind": "IntegerLiteral",
-      "offset": 858,
+      "offset": 959,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/MorphGeometry.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1126,
       "length": 2,
       "value": "16"
     },
@@ -3568,7 +3582,7 @@
       "kind": "StringLiteral",
       "offset": 261,
       "length": 7,
-      "value": "\"0.1.1\""
+      "value": "\"0.1.2\""
     }
   ]
 }
