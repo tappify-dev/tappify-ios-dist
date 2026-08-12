@@ -1046,35 +1046,35 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
       "kind": "StringLiteral",
-      "offset": 1286,
+      "offset": 1383,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
       "kind": "Array",
-      "offset": 2405,
+      "offset": 2502,
       "length": 112,
       "value": "[\"UINavigationController\", \"UITabBarController\", \"UISplitViewController\", \"UIPageViewController\"]"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
       "kind": "Array",
-      "offset": 2568,
+      "offset": 2665,
       "length": 21,
       "value": "[\"UIAlertController\"]"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
       "kind": "BooleanLiteral",
-      "offset": 6762,
+      "offset": 7015,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
       "kind": "BooleanLiteral",
-      "offset": 7506,
+      "offset": 7759,
       "length": 4,
       "value": "true"
     },
@@ -2691,35 +2691,35 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/CommentMode.swift",
       "kind": "Array",
-      "offset": 2886,
+      "offset": 2915,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/CommentMode.swift",
       "kind": "Array",
-      "offset": 2950,
+      "offset": 2979,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/CommentMode.swift",
       "kind": "StringLiteral",
-      "offset": 3067,
+      "offset": 3096,
       "length": 7,
       "value": "\"xmark\""
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/CommentMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 8496,
+      "offset": 9421,
       "length": 2,
       "value": "34"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/CommentMode.swift",
       "kind": "IntegerLiteral",
-      "offset": 9879,
+      "offset": 10804,
       "length": 2,
       "value": "26"
     },
@@ -3083,7 +3083,7 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/OverlayCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 40247,
+      "offset": 40299,
       "length": 27,
       "value": "\"Couldn't post. Try again.\""
     },
@@ -3589,7 +3589,7 @@
       "kind": "StringLiteral",
       "offset": 261,
       "length": 7,
-      "value": "\"0.2.0\""
+      "value": "\"0.2.1\""
     }
   ]
 }
