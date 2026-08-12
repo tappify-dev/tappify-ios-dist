@@ -1072,13 +1072,6 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7759,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/GenerationGuard.swift",
       "kind": "IntegerLiteral",
       "offset": 694,
@@ -3589,7 +3582,7 @@
       "kind": "StringLiteral",
       "offset": 261,
       "length": 7,
-      "value": "\"0.2.2\""
+      "value": "\"0.2.3\""
     }
   ]
 }
