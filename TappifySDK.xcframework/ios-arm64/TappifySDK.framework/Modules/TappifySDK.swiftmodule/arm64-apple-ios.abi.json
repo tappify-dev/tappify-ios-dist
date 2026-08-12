@@ -342,6 +342,294 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TappifySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "os",
+        "printedName": "os",
+        "declKind": "Import",
+        "moduleName": "TappifySDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TappifyLogLevel",
+        "printedName": "TappifyLogLevel",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "none",
+            "printedName": "none",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(TappifySDK.TappifyLogLevel.Type) -> TappifySDK.TappifyLogLevel",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TappifyLogLevel",
+                    "printedName": "TappifySDK.TappifyLogLevel",
+                    "usr": "s:10TappifySDK0A8LogLevelO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "TappifySDK.TappifyLogLevel.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TappifyLogLevel",
+                        "printedName": "TappifySDK.TappifyLogLevel",
+                        "usr": "s:10TappifySDK0A8LogLevelO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10TappifySDK0A8LogLevelO4noneyA2CmF",
+            "mangledName": "$s10TappifySDK0A8LogLevelO4noneyA2CmF",
+            "moduleName": "TappifySDK",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "error",
+            "printedName": "error",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(TappifySDK.TappifyLogLevel.Type) -> TappifySDK.TappifyLogLevel",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TappifyLogLevel",
+                    "printedName": "TappifySDK.TappifyLogLevel",
+                    "usr": "s:10TappifySDK0A8LogLevelO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "TappifySDK.TappifyLogLevel.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TappifyLogLevel",
+                        "printedName": "TappifySDK.TappifyLogLevel",
+                        "usr": "s:10TappifySDK0A8LogLevelO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10TappifySDK0A8LogLevelO5erroryA2CmF",
+            "mangledName": "$s10TappifySDK0A8LogLevelO5erroryA2CmF",
+            "moduleName": "TappifySDK",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "debug",
+            "printedName": "debug",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(TappifySDK.TappifyLogLevel.Type) -> TappifySDK.TappifyLogLevel",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TappifyLogLevel",
+                    "printedName": "TappifySDK.TappifyLogLevel",
+                    "usr": "s:10TappifySDK0A8LogLevelO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "TappifySDK.TappifyLogLevel.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TappifyLogLevel",
+                        "printedName": "TappifySDK.TappifyLogLevel",
+                        "usr": "s:10TappifySDK0A8LogLevelO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10TappifySDK0A8LogLevelO5debugyA2CmF",
+            "mangledName": "$s10TappifySDK0A8LogLevelO5debugyA2CmF",
+            "moduleName": "TappifySDK",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "TappifySDK.TappifyLogLevel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TappifyLogLevel",
+                    "printedName": "TappifySDK.TappifyLogLevel",
+                    "usr": "s:10TappifySDK0A8LogLevelO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10TappifySDK0A8LogLevelO8rawValueACSgSi_tcfc",
+            "mangledName": "$s10TappifySDK0A8LogLevelO8rawValueACSgSi_tcfc",
+            "moduleName": "TappifySDK",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10TappifySDK0A8LogLevelO8rawValueSivp",
+            "mangledName": "$s10TappifySDK0A8LogLevelO8rawValueSivp",
+            "moduleName": "TappifySDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10TappifySDK0A8LogLevelO8rawValueSivg",
+                "mangledName": "$s10TappifySDK0A8LogLevelO8rawValueSivg",
+                "moduleName": "TappifySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10TappifySDK0A8LogLevelO",
+        "mangledName": "$s10TappifySDK0A8LogLevelO",
+        "moduleName": "TappifySDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "enumRawTypeName": "Int",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -678,7 +966,7 @@
           {
             "kind": "Function",
             "name": "start",
-            "printedName": "start(appKey:apiBaseURL:dashboardURL:)",
+            "printedName": "start(appKey:apiBaseURL:dashboardURL:logLevel:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -704,11 +992,18 @@
                 "printedName": "Foundation.URL",
                 "hasDefaultArg": true,
                 "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "TappifyLogLevel",
+                "printedName": "TappifySDK.TappifyLogLevel",
+                "hasDefaultArg": true,
+                "usr": "s:10TappifySDK0A8LogLevelO"
               }
             ],
             "declKind": "Func",
-            "usr": "s:10TappifySDK0A0O5start6appKey10apiBaseURL09dashboardH0ySS_10Foundation0H0VAJtFZ",
-            "mangledName": "$s10TappifySDK0A0O5start6appKey10apiBaseURL09dashboardH0ySS_10Foundation0H0VAJtFZ",
+            "usr": "s:10TappifySDK0A0O5start6appKey10apiBaseURL09dashboardH08logLevelySS_10Foundation0H0VAkA0a3LogK0OtFZ",
+            "mangledName": "$s10TappifySDK0A0O5start6appKey10apiBaseURL09dashboardH08logLevelySS_10Foundation0H0VAkA0a3LogK0OtFZ",
             "moduleName": "TappifySDK",
             "static": true,
             "declAttributes": [
@@ -1053,23 +1348,93 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
       "kind": "Array",
-      "offset": 2502,
+      "offset": 2598,
       "length": 112,
       "value": "[\"UINavigationController\", \"UITabBarController\", \"UISplitViewController\", \"UIPageViewController\"]"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
       "kind": "Array",
-      "offset": 2665,
+      "offset": 2761,
       "length": 21,
       "value": "[\"UIAlertController\"]"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
       "kind": "BooleanLiteral",
-      "offset": 7015,
+      "offset": 7111,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 10029,
+      "length": 15,
+      "value": "\"viewDidLayout\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 10920,
+      "length": 21,
+      "value": "\"screen.tab_selected\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 10944,
+      "length": 7,
+      "value": "\"index\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 10953,
+      "length": 10,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 10962,
+      "length": 3,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 11067,
+      "length": 15,
+      "value": "\"selectedIndex\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 11598,
+      "length": 21,
+      "value": "\"screen.tab_selected\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 11622,
+      "length": 12,
+      "value": "\"controller\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 11686,
+      "length": 5,
+      "value": "\"nil\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 11795,
+      "length": 24,
+      "value": "\"selectedViewController\""
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/DesignSystem\/GenerationGuard.swift",
@@ -2676,10 +3041,80 @@
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Kernel\/TappifyKernel.swift",
+      "kind": "StringLiteral",
+      "offset": 4563,
+      "length": 22,
+      "value": "\"kernel.state_changed\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Kernel\/TappifyKernel.swift",
+      "kind": "StringLiteral",
+      "offset": 4588,
+      "length": 6,
+      "value": "\"from\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Kernel\/TappifyKernel.swift",
+      "kind": "StringLiteral",
+      "offset": 4622,
+      "length": 4,
+      "value": "\"to\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Kernel\/TappifyKernel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5687,
+      "offset": 5828,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Logging\/TappifyLogger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 186,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Logging\/TappifyLogger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 264,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Logging\/TappifyLogger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 365,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Logging\/TappifyLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 627,
+      "length": 16,
+      "value": "\"ai.tappify.sdk\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Logging\/TappifyLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 655,
+      "length": 12,
+      "value": "\"TappifySDK\""
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Logging\/TappifyLogger.swift",
+      "kind": "Dictionary",
+      "offset": 1047,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Logging\/TappifyLogger.swift",
+      "kind": "Dictionary",
+      "offset": 1296,
+      "length": 3,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/CommentMode.swift",
@@ -3069,14 +3504,14 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/OverlayCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 20792,
+      "offset": 21187,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/OverlayCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 40299,
+      "offset": 40882,
       "length": 27,
       "value": "\"Couldn't post. Try again.\""
     },
@@ -3426,14 +3861,14 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Tappify.swift",
       "kind": "StringLiteral",
-      "offset": 2443,
+      "offset": 2512,
       "length": 31,
       "value": "\"https:\/\/api.tappify.ai\/api\/v1\""
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Tappify.swift",
       "kind": "StringLiteral",
-      "offset": 2518,
+      "offset": 2587,
       "length": 24,
       "value": "\"https:\/\/app.tappify.ai\""
     },
@@ -3573,7 +4008,7 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Transport\/SdkApiClient.swift",
       "kind": "Array",
-      "offset": 6932,
+      "offset": 7038,
       "length": 2,
       "value": "[]"
     },
@@ -3582,7 +4017,7 @@
       "kind": "StringLiteral",
       "offset": 261,
       "length": 7,
-      "value": "\"0.2.3\""
+      "value": "\"0.2.4\""
     }
   ]
 }

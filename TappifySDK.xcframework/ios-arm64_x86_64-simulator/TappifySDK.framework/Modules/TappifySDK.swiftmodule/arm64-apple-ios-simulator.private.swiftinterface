@@ -17,17 +17,31 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import os
 extension SwiftUICore.View {
   @_Concurrency.MainActor @preconcurrency public func tappifyScreen(_ name: Swift.String) -> some SwiftUICore.View
   
+}
+public enum TappifyLogLevel : Swift.Int, Swift.Sendable {
+  case none
+  case error
+  case debug
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
 }
 public enum Tappify {
   public static var version: Swift.String {
     get
   }
-  public static func start(appKey: Swift.String, apiBaseURL: Foundation.URL = URL(string: "https://api.tappify.ai/api/v1")!, dashboardURL: Foundation.URL = URL(string: "https://app.tappify.ai")!)
+  public static func start(appKey: Swift.String, apiBaseURL: Foundation.URL = URL(string: "https://api.tappify.ai/api/v1")!, dashboardURL: Foundation.URL = URL(string: "https://app.tappify.ai")!, logLevel: TappifySDK.TappifyLogLevel = .none)
   @discardableResult
   public static func handle(url: Foundation.URL) -> Swift.Bool
   public static func tagScreen(_ name: Swift.String)
 }
 public let TappifySDKVersion: Swift.String
+extension TappifySDK.TappifyLogLevel : Swift.Equatable {}
+extension TappifySDK.TappifyLogLevel : Swift.Hashable {}
+extension TappifySDK.TappifyLogLevel : Swift.RawRepresentable {}
