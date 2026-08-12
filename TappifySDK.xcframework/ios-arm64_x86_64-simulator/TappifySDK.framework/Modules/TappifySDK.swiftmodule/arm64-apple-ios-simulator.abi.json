@@ -1067,14 +1067,14 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
       "kind": "BooleanLiteral",
-      "offset": 6195,
+      "offset": 6762,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Capture\/ScreenTracker.swift",
       "kind": "BooleanLiteral",
-      "offset": 6939,
+      "offset": 7506,
       "length": 4,
       "value": "true"
     },
@@ -2927,6 +2927,13 @@
       "value": "\"@\\[([^\\]]+)\\]\\(([^)]+)\\)\""
     },
     {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/MentionToken.swift",
+      "kind": "StringLiteral",
+      "offset": 185,
+      "length": 27,
+      "value": "\"ai.tappify.mention.userId\""
+    },
+    {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/MenuBackdropState.swift",
       "kind": "BooleanLiteral",
       "offset": 894,
@@ -2957,7 +2964,7 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/MenuPanel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6505,
+      "offset": 6858,
       "length": 5,
       "value": "false"
     },
@@ -3006,21 +3013,21 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/MorphSurface.swift",
       "kind": "StringLiteral",
-      "offset": 1520,
+      "offset": 1707,
       "length": 19,
       "value": "\"xmark.circle.fill\""
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/MorphSurface.swift",
       "kind": "IntegerLiteral",
-      "offset": 2206,
+      "offset": 2393,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/MorphSurface.swift",
       "kind": "BooleanLiteral",
-      "offset": 2217,
+      "offset": 2404,
       "length": 5,
       "value": "false"
     },
@@ -3202,21 +3209,21 @@
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/ThreadDetailView.swift",
       "kind": "Array",
-      "offset": 15025,
+      "offset": 15084,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/ThreadDetailView.swift",
       "kind": "StringLiteral",
-      "offset": 33749,
+      "offset": 35608,
       "length": 16,
       "value": "\"CommentRowCell\""
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/ThreadDetailView.swift",
       "kind": "IntegerLiteral",
-      "offset": 33815,
+      "offset": 35674,
       "length": 2,
       "value": "22"
     },
@@ -3582,7 +3589,7 @@
       "kind": "StringLiteral",
       "offset": 261,
       "length": 7,
-      "value": "\"0.1.3\""
+      "value": "\"0.2.0\""
     }
   ]
 }
