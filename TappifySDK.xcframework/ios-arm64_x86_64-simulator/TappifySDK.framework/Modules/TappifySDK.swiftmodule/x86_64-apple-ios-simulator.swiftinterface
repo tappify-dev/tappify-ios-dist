@@ -25,7 +25,7 @@ public enum Tappify {
   public static var version: Swift.String {
     get
   }
-  public static func start(appKey: Swift.String, apiBaseURL: Foundation.URL = URL(string: "https://api.tappify.app/api/v1")!, dashboardURL: Foundation.URL = URL(string: "https://app.tappify.app")!)
+  public static func start(appKey: Swift.String, apiBaseURL: Foundation.URL = URL(string: "https://api.tappify.ai/api/v1")!, dashboardURL: Foundation.URL = URL(string: "https://app.tappify.ai")!)
   @discardableResult
   public static func handle(url: Foundation.URL) -> Swift.Bool
   public static func tagScreen(_ name: Swift.String)

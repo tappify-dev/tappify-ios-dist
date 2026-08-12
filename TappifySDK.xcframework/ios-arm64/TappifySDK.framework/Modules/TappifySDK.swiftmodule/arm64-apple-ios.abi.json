@@ -2643,41 +2643,41 @@
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Kernel\/TappifyKernel.swift",
       "kind": "StringLiteral",
       "offset": 3446,
-      "length": 25,
-      "value": "\"https:\/\/app.tappify.app\""
+      "length": 24,
+      "value": "\"https:\/\/app.tappify.ai\""
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Kernel\/TappifyKernel.swift",
       "kind": "StringLiteral",
-      "offset": 4373,
+      "offset": 4372,
       "length": 32,
       "value": "\"tappify.kernel.lastEntitlement\""
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Kernel\/TappifyKernel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4457,
+      "offset": 4456,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Kernel\/TappifyKernel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4462,
+      "offset": 4461,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Kernel\/TappifyKernel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4467,
+      "offset": 4466,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Kernel\/TappifyKernel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5688,
+      "offset": 5687,
       "length": 1,
       "value": "0"
     },
@@ -3413,15 +3413,15 @@
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Tappify.swift",
       "kind": "StringLiteral",
       "offset": 2443,
-      "length": 32,
-      "value": "\"https:\/\/api.tappify.app\/api\/v1\""
+      "length": 31,
+      "value": "\"https:\/\/api.tappify.ai\/api\/v1\""
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Tappify.swift",
       "kind": "StringLiteral",
-      "offset": 2519,
-      "length": 25,
-      "value": "\"https:\/\/app.tappify.app\""
+      "offset": 2518,
+      "length": 24,
+      "value": "\"https:\/\/app.tappify.ai\""
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Transport\/SdkApiClient.swift",
@@ -3568,7 +3568,7 @@
       "kind": "StringLiteral",
       "offset": 261,
       "length": 7,
-      "value": "\"0.1.0\""
+      "value": "\"0.1.1\""
     }
   ]
 }
