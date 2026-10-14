@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.3.3 effective-5.10 (swiftlang-6.3.3.1.3 clang-2100.1.1.101)
-// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -O -enable-experimental-feature DebugDescriptionMacro -module-name TappifySDK -package-name tappify_ios
-// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.3.3
+// swift-compiler-version: Apple Swift version 6.4 effective-5.10 (swiftlang-6.4.0.34.1 clang-2100.3.34.1)
+// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -language-mode 5 -O -enable-experimental-feature DebugDescriptionMacro -module-name TappifySDK -package-name tappify_ios
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.4
 import AuthenticationServices
 import CoreGraphics
 import CoreText
@@ -18,30 +18,30 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 import os
-extension SwiftUICore.View {
-  @_Concurrency.MainActor @preconcurrency public func tappifyScreen(_ name: Swift.String) -> some SwiftUICore.View
+extension SwiftUICore::View {
+  @_Concurrency::MainActor @preconcurrency public func tappifyScreen(_ name: Swift::String) -> some SwiftUICore::View
   
 }
-public enum TappifyLogLevel : Swift.Int, Swift.Sendable {
+public enum TappifyLogLevel : Swift::Int, Swift::Sendable {
   case none
   case error
   case debug
-  public init?(rawValue: Swift.Int)
-  public typealias RawValue = Swift.Int
-  public var rawValue: Swift.Int {
+  public init?(rawValue: Swift::Int)
+  public typealias RawValue = Swift::Int
+  public var rawValue: Swift::Int {
     get
   }
 }
 public enum Tappify {
-  public static var version: Swift.String {
+  public static var version: Swift::String {
     get
   }
-  public static func start(appKey: Swift.String, apiBaseURL: Foundation.URL = URL(string: "https://api.tappify.ai/api/v1")!, dashboardURL: Foundation.URL = URL(string: "https://app.tappify.ai")!, logLevel: TappifySDK.TappifyLogLevel = .none)
+  public static func start(appKey: Swift::String, apiBaseURL: Foundation::URL = URL(string: "https://api.tappify.ai/api/v1")!, dashboardURL: Foundation::URL = URL(string: "https://app.tappify.ai")!, logLevel: TappifySDK::TappifyLogLevel = .none)
   @discardableResult
-  public static func handle(url: Foundation.URL) -> Swift.Bool
-  public static func tagScreen(_ name: Swift.String)
+  public static func handle(url: Foundation::URL) -> Swift::Bool
+  public static func tagScreen(_ name: Swift::String)
 }
-public let TappifySDKVersion: Swift.String
-extension TappifySDK.TappifyLogLevel : Swift.Equatable {}
-extension TappifySDK.TappifyLogLevel : Swift.Hashable {}
-extension TappifySDK.TappifyLogLevel : Swift.RawRepresentable {}
+public let TappifySDKVersion: Swift::String
+extension TappifySDK::TappifyLogLevel : Swift::Equatable {}
+extension TappifySDK::TappifyLogLevel : Swift::Hashable {}
+extension TappifySDK::TappifyLogLevel : Swift::RawRepresentable {}

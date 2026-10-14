@@ -1255,28 +1255,28 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/.build\/xcframework\/dd-ios-sim\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TappifySDK\/IntermediateBuildFilesPath\/TappifySDK.build\/Release-iphonesimulator\/TappifySDK.build\/DerivedSources\/resource_bundle_accessor.swift",
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/.build\/xcframework\/dd-ios-sim\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TappifySDK\/IntermediateBuildFilesPath\/TappifySDK.build\/Release-iphonesimulator\/TappifySDK-t.build\/DerivedSources\/resource_bundle_accessor.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 23,
       "value": "\"TappifySDK_TappifySDK\""
     },
     {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/.build\/xcframework\/dd-ios-sim\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TappifySDK\/IntermediateBuildFilesPath\/TappifySDK.build\/Release-iphonesimulator\/TappifySDK.build\/DerivedSources\/resource_bundle_accessor.swift",
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/.build\/xcframework\/dd-ios-sim\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TappifySDK\/IntermediateBuildFilesPath\/TappifySDK.build\/Release-iphonesimulator\/TappifySDK-t.build\/DerivedSources\/resource_bundle_accessor.swift",
       "kind": "Array",
       "offset": 977,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/.build\/xcframework\/dd-ios-sim\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TappifySDK\/IntermediateBuildFilesPath\/TappifySDK.build\/Release-iphonesimulator\/TappifySDK.build\/DerivedSources\/resource_bundle_accessor.swift",
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/.build\/xcframework\/dd-ios-sim\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TappifySDK\/IntermediateBuildFilesPath\/TappifySDK.build\/Release-iphonesimulator\/TappifySDK-t.build\/DerivedSources\/resource_bundle_accessor.swift",
       "kind": "StringLiteral",
       "offset": 1504,
       "length": 9,
       "value": "\".bundle\""
     },
     {
-      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/.build\/xcframework\/dd-ios-sim\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TappifySDK\/IntermediateBuildFilesPath\/TappifySDK.build\/Release-iphonesimulator\/TappifySDK.build\/DerivedSources\/resource_bundle_accessor.swift",
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/.build\/xcframework\/dd-ios-sim\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TappifySDK\/IntermediateBuildFilesPath\/TappifySDK.build\/Release-iphonesimulator\/TappifySDK-t.build\/DerivedSources\/resource_bundle_accessor.swift",
       "kind": "StringLiteral",
       "offset": 1656,
       "length": 51,
@@ -3272,31 +3272,73 @@
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/LivePinLayer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1099,
+      "length": 2,
+      "value": "-8"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/LivePinLayer.swift",
+      "kind": "FloatLiteral",
+      "offset": 1150,
+      "length": 4,
+      "value": "0.82"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/LivePinLayer.swift",
+      "kind": "FloatLiteral",
+      "offset": 1199,
+      "length": 4,
+      "value": "0.88"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/LivePinLayer.swift",
       "kind": "Array",
-      "offset": 1253,
+      "offset": 1554,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/LivePinLayer.swift",
       "kind": "Dictionary",
-      "offset": 1308,
+      "offset": 1616,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/LivePinLayer.swift",
       "kind": "Dictionary",
-      "offset": 1361,
+      "offset": 1672,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/LivePinLayer.swift",
       "kind": "Dictionary",
-      "offset": 1598,
+      "offset": 1725,
       "length": 3,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/LivePinLayer.swift",
+      "kind": "Dictionary",
+      "offset": 1962,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/LivePinLayer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2038,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/LivePinLayer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2082,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/vulakh\/Desktop\/Work\/Tappify\/tappify-ios\/Sources\/TappifySDK\/Overlay\/MentionAutocomplete.swift",
@@ -4017,7 +4059,7 @@
       "kind": "StringLiteral",
       "offset": 261,
       "length": 7,
-      "value": "\"0.2.5\""
+      "value": "\"0.2.6\""
     }
   ]
 }
